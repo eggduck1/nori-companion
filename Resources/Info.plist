@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+    <key>CFBundleExecutable</key>
+    <string>NoriCompanion</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.omnibot.nori-companion</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>Nori</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSCameraUsageDescription</key>
+    <string>Nori uses the camera only when you choose Analyze scene. Face detection and image classification run locally, and the image is not saved or uploaded.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Nori uses the microphone only while you explicitly choose Talk. Audio is transcribed on this Mac and is not recorded to a file.</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>Nori uses on-device Speech Recognition to transcribe your voice after you start a voice turn.</string>
+</dict>
+</plist>
